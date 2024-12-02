@@ -3,7 +3,7 @@ import streamlit as st
 from image_main import generate_image_from_prompt
 
 # Your Hugging Face API token (securely store and don't hard-code in production)
-API_TOKEN = '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'
+API_TOKEN = #Replace with your own hugging face model tokens
 
 def main():
     st.title("Text-to-Image Generation with Hugging Face")
