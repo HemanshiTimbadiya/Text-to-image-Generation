@@ -1,0 +1,4 @@
+transformers==4.28.1  # Hugging Face library for text-to-image models
+torch==2.0.1         # PyTorch for model inference
+Pillow==9.5.0        # Image processing library
+streamlit==1.25.0    # For creating and deploying the web app
