@@ -6,7 +6,7 @@ from image_main import generate_image_from_prompt
 API_TOKEN = #Replace with your own hugging face model tokens
 
 def main():
-    st.title("Text-to-Image Generation with Hugging Face")
+    st.title("Text-to-Image Generation")
 
     # Input field for the text prompt
     prompt = st.text_input("Enter a text prompt for image generation:", "")
