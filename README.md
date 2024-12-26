@@ -1,7 +1,7 @@
 # Text-to-Image Generation
 
 ## Project Overview
-This project demonstrates the use of a **Text-to-Image Generation** model, enabling the creation of high-quality images based on textual prompts. Utilizing Hugging Face's pretrained **DALL·E Mini** model, the application generates images directly from user-provided descriptions.
+This project demonstrates the use of a **Text-to-Image Generation** model, enabling the creation of high-quality images based on textual prompts. Utilizing Hugging Face's pretrained **stable-diffusion-2** model, the application generates images directly from user-provided descriptions.
 
 ---
 
