@@ -37,7 +37,7 @@ This project demonstrates the use of a **Text-to-Image Generation** model, enabl
 ---
 
 ## Model Description
-This project uses the **DALL·E Mini** model, a scaled-down version of OpenAI’s DALL·E, for generating images from text prompts. The pretrained model is accessed via Hugging Face’s Transformers library. 
+This project uses the **stable-diffusion-2** model, a scaled-down version of OpenAI’s stable-diffusion-2, for generating images from text prompts. The pretrained model is accessed via Hugging Face’s Transformers library. 
 
 - **Input:** A textual description or prompt.
 - **Output:** An image representing the input text.
